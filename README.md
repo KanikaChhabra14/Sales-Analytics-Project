@@ -35,3 +35,8 @@ SQL queries were used to perform sales analysis using Customer, Product, and Ord
 ## Outcome
 
 The dashboard provides a clear view of sales performance and helps identify high-performing categories, cities, products, and customers.
+
+## Assessment Repository
+
+For my latest Data Analyst Assessment, please refer to:
+[Online Retail Business Analysis](https://github.com/KanikaChhabra14/Online-Retail-Business-Analysis)
